@@ -1,0 +1,22 @@
+{
+  "name": "gmailbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@google-cloud/pubsub": "^2.8.0",
+    "base64url": "^3.0.1",
+    "googleapis": "^67.0.0",
+    "intel": "^1.2.0",
+    "node-telegram-bot-api": "^0.51.0"
+  },
+  "engines": {
+    "node": "14.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

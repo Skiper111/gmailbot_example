@@ -1,0 +1,18 @@
+going to a file!
+Error: Error sending test message to Cloud PubSub projects/mail-1610507534476/topics/gmai : Resource not found (resource=gmai).
+    at Gaxios._request (F:\Front-end\gmailbot\node_modules\gaxios\build\src\gaxios.js:112:23)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async OAuth2Client.requestAsync (F:\Front-end\gmailbot\node_modules\google-auth-library\build\src\auth\oauth2client.js:343:18)
+    at async watch (F:\Front-end\gmailbot\app.js:37:9)
+Thu Apr 15 2021 00:16:47 GMT+0300 (Восточная Европа, летнее время) : bot started!
+Thu Apr 15 2021 00:18:40 GMT+0300 (Восточная Европа, летнее время) : bot started!
+Thu Apr 15 2021 00:19:27 GMT+0300 (Восточная Европа, летнее время) : bot started!
+Thu Apr 15 2021 00:35:53 GMT+0300 (Восточная Европа, летнее время) : Error: ENOENT: no such file or directory, open 'F:\credential.json'
+Thu Apr 15 2021 00:36:10 GMT+0300 (Восточная Европа, летнее время) : Error: ENOENT: no such file or directory, open 'F:\Front-end\gmailbot\credential.json'
+Thu Apr 15 2021 00:36:19 GMT+0300 (Восточная Европа, летнее время) : Error: ENOENT: no such file or directory, open 'F:\Front-end\gmailbot\credential.json'
+Thu Apr 15 2021 00:36:45 GMT+0300 (Восточная Европа, летнее время) : Error: ENOENT: no such file or directory, open 'F:\Front-end\gmailbot\credential.json'
+Thu Apr 15 2021 00:45:25 GMT+0300 (Восточная Европа, летнее время) : Error: ENOENT: no such file or directory, open 'F:\credentials.json'
+Thu Apr 15 2021 00:45:25 GMT+0300 (Восточная Европа, летнее время) : Error: ENOENT: no such file or directory, open 'F:\token.json'
+Thu Apr 15 2021 00:46:06 GMT+0300 (Восточная Европа, летнее время) : Error: ENOENT: no such file or directory, open 'F:\token.json'
+Thu Apr 15 2021 01:00:16 GMT+0300 (Восточная Европа, летнее время) : TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined
+Thu Apr 15 2021 01:09:05 GMT+0300 (Восточная Европа, летнее время) : bot started!
